@@ -1,0 +1,1420 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+/Users/simonkm/Documents/Unity Projects/Pong Online
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+56425
+Successfully changed project path to: /Users/simonkm/Documents/Unity Projects/Pong Online
+/Users/simonkm/Documents/Unity Projects/Pong Online
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 43.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/simonkm/Documents/Unity Projects/Pong Online/Assets
+GfxDevice: creating device client; threaded=0
+2021-06-28 23:19:02.006 Unity[49133:1378113] (null) preferred device: Apple M1 (high power)
+2021-06-28 23:19:02.006 Unity[49133:1378113] Metal devices available: 1
+2021-06-28 23:19:02.006 Unity[49133:1378113] 0: Apple M1 (high power)
+2021-06-28 23:19:02.007 Unity[49133:1378113] Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56133
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.002672 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 39.88 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.307 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005195 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 39.13 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.330 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2310 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 185.0 MB.
+System memory in use after: 185.1 MB.
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 2741.
+Total: 1.723375 ms (FindLiveObjects: 0.160375 ms CreateObjectMapping: 0.044833 ms MarkObjects: 1.397000 ms  DeleteObjects: 0.120375 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/StartMenu.unity
+  artifactKey: Guid(390995a861abc4efea0ac41ef52f2aec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/StartMenu.unity using Guid(390995a861abc4efea0ac41ef52f2aec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e947ad4af5ea1ac246fe05cd588c73d') in 0.017487 seconds
+  Import took 0.022309 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006962 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.459 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2303 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 185.0 MB.
+System memory in use after: 185.0 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2746.
+Total: 3.004958 ms (FindLiveObjects: 0.287750 ms CreateObjectMapping: 0.110458 ms MarkObjects: 2.483083 ms  DeleteObjects: 0.122625 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005200 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.652 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2303 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 185.2 MB.
+System memory in use after: 185.3 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2751.
+Total: 2.339042 ms (FindLiveObjects: 0.207333 ms CreateObjectMapping: 0.103916 ms MarkObjects: 1.904250 ms  DeleteObjects: 0.122458 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007260 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.645 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2303 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 185.5 MB.
+System memory in use after: 185.6 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2756.
+Total: 2.113334 ms (FindLiveObjects: 0.179417 ms CreateObjectMapping: 0.084708 ms MarkObjects: 1.742083 ms  DeleteObjects: 0.105875 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006243 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.633 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2303 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 185.7 MB.
+System memory in use after: 185.8 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2761.
+Total: 1.882125 ms (FindLiveObjects: 0.219834 ms CreateObjectMapping: 0.093208 ms MarkObjects: 1.455041 ms  DeleteObjects: 0.113083 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004364 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.431 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2303 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 185.8 MB.
+System memory in use after: 185.9 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2766.
+Total: 1.741500 ms (FindLiveObjects: 0.183334 ms CreateObjectMapping: 0.048833 ms MarkObjects: 1.390625 ms  DeleteObjects: 0.117958 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004292 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.415 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2303 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 186.1 MB.
+System memory in use after: 186.2 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2771.
+Total: 1.719292 ms (FindLiveObjects: 0.186333 ms CreateObjectMapping: 0.048708 ms MarkObjects: 1.368167 ms  DeleteObjects: 0.114958 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004810 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.718 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2303 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 186.4 MB.
+System memory in use after: 186.5 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2776.
+Total: 2.820959 ms (FindLiveObjects: 0.253625 ms CreateObjectMapping: 0.107542 ms MarkObjects: 2.329500 ms  DeleteObjects: 0.129334 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008755 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.696 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2303 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 186.6 MB.
+System memory in use after: 186.7 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2781.
+Total: 10.513625 ms (FindLiveObjects: 1.254291 ms CreateObjectMapping: 0.102792 ms MarkObjects: 8.895542 ms  DeleteObjects: 0.259833 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004022 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.502 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2303 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 186.8 MB.
+System memory in use after: 186.9 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2786.
+Total: 4.101416 ms (FindLiveObjects: 0.246792 ms CreateObjectMapping: 0.100958 ms MarkObjects: 3.603875 ms  DeleteObjects: 0.148791 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006037 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.781 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2303 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 186.9 MB.
+System memory in use after: 187.0 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2791.
+Total: 12.304375 ms (FindLiveObjects: 0.355292 ms CreateObjectMapping: 0.100916 ms MarkObjects: 11.459000 ms  DeleteObjects: 0.384000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005324 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.790 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2303 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.2 MB.
+System memory in use after: 187.3 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2796.
+Total: 2.054417 ms (FindLiveObjects: 0.264750 ms CreateObjectMapping: 0.105500 ms MarkObjects: 1.554375 ms  DeleteObjects: 0.128917 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007194 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.833 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2303 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.4 MB.
+System memory in use after: 187.5 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2801.
+Total: 1.813500 ms (FindLiveObjects: 0.207542 ms CreateObjectMapping: 0.105541 ms MarkObjects: 1.380792 ms  DeleteObjects: 0.118583 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003682 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.509 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2303 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.7 MB.
+System memory in use after: 187.8 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2806.
+Total: 1.728583 ms (FindLiveObjects: 0.184500 ms CreateObjectMapping: 0.047375 ms MarkObjects: 1.378125 ms  DeleteObjects: 0.117500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005787 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.956 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 5.00 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2303 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.9 MB.
+System memory in use after: 188.0 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2811.
+Total: 4.347625 ms (FindLiveObjects: 0.419792 ms CreateObjectMapping: 0.103541 ms MarkObjects: 3.657000 ms  DeleteObjects: 0.165666 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007161 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.685 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2303 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 188.0 MB.
+System memory in use after: 188.1 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2816.
+Total: 2.370041 ms (FindLiveObjects: 0.225959 ms CreateObjectMapping: 0.091959 ms MarkObjects: 1.935541 ms  DeleteObjects: 0.115666 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004095 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.718 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2303 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 188.3 MB.
+System memory in use after: 188.4 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2821.
+Total: 1.877916 ms (FindLiveObjects: 0.207541 ms CreateObjectMapping: 0.102917 ms MarkObjects: 1.445375 ms  DeleteObjects: 0.121166 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004564 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.465 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2303 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 188.5 MB.
+System memory in use after: 188.6 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2826.
+Total: 1.721458 ms (FindLiveObjects: 0.180084 ms CreateObjectMapping: 0.048708 ms MarkObjects: 1.379250 ms  DeleteObjects: 0.112291 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006616 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.385 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2303 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 188.7 MB.
+System memory in use after: 188.8 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2831.
+Total: 1.740542 ms (FindLiveObjects: 0.170541 ms CreateObjectMapping: 0.048750 ms MarkObjects: 1.405375 ms  DeleteObjects: 0.114959 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003416 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.331 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2303 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 188.9 MB.
+System memory in use after: 189.0 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2836.
+Total: 1.672792 ms (FindLiveObjects: 0.161916 ms CreateObjectMapping: 0.047459 ms MarkObjects: 1.345916 ms  DeleteObjects: 0.116541 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006935 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.348 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2303 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 189.1 MB.
+System memory in use after: 189.2 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2841.
+Total: 1.632416 ms (FindLiveObjects: 0.167708 ms CreateObjectMapping: 0.048500 ms MarkObjects: 1.299667 ms  DeleteObjects: 0.115708 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004650 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.565 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2303 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 189.4 MB.
+System memory in use after: 189.5 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2846.
+Total: 2.664125 ms (FindLiveObjects: 0.234292 ms CreateObjectMapping: 0.103208 ms MarkObjects: 2.210750 ms  DeleteObjects: 0.114959 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1638.052936 seconds.
+  path: Assets/Scripts/TwoPlayer1Color.cs
+  artifactKey: Guid(5b664e2618efc4a2eb2bbf88b08a2ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/TwoPlayer1Color.cs using Guid(5b664e2618efc4a2eb2bbf88b08a2ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9f8aa41982500997530fc53ffd2bec1') in 1.857861 seconds
+  Import took 1.871331 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004084 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.642 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2304 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 194.0 MB.
+System memory in use after: 194.1 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2852.
+Total: 9.127875 ms (FindLiveObjects: 0.310625 ms CreateObjectMapping: 0.097125 ms MarkObjects: 8.557917 ms  DeleteObjects: 0.161125 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008876 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.899 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2303 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 194.1 MB.
+System memory in use after: 194.2 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2856.
+Total: 4.237167 ms (FindLiveObjects: 0.300416 ms CreateObjectMapping: 0.111333 ms MarkObjects: 3.620042 ms  DeleteObjects: 0.204125 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007607 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.800 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2303 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 194.5 MB.
+System memory in use after: 194.6 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2861.
+Total: 1.823083 ms (FindLiveObjects: 0.189709 ms CreateObjectMapping: 0.093666 ms MarkObjects: 1.419625 ms  DeleteObjects: 0.119167 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 184.024091 seconds.
+  path: Assets/Scripts/Player2ChosenColor.cs
+  artifactKey: Guid(7f71d3889ef324506bbaf9f7d64f06e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Player2ChosenColor.cs using Guid(7f71d3889ef324506bbaf9f7d64f06e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33c93cf9f8dfc13779ceb006f5ee5311') in 0.027511 seconds
+  Import took 0.044404 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003984 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.870 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2304 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 194.7 MB.
+System memory in use after: 194.7 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2867.
+Total: 7.095208 ms (FindLiveObjects: 0.340583 ms CreateObjectMapping: 0.103209 ms MarkObjects: 6.503167 ms  DeleteObjects: 0.146708 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.404741 seconds.
+  path: Assets/Scripts/Player2ChosenColor.cs
+  artifactKey: Guid(7f71d3889ef324506bbaf9f7d64f06e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Player2ChosenColor.cs using Guid(7f71d3889ef324506bbaf9f7d64f06e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c8fff60fd196827e9a571a34fa4f0f6') in 0.050162 seconds
+  Import took 0.090700 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003620 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.483 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2304 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 195.0 MB.
+System memory in use after: 195.1 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2872.
+Total: 1.672875 ms (FindLiveObjects: 0.171125 ms CreateObjectMapping: 0.048125 ms MarkObjects: 1.339666 ms  DeleteObjects: 0.113042 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.597037 seconds.
+  path: Assets/Scenes/StartMenu.unity
+  artifactKey: Guid(390995a861abc4efea0ac41ef52f2aec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/StartMenu.unity using Guid(390995a861abc4efea0ac41ef52f2aec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '879f406e0574f0e2313492b317eecb03') in 0.056603 seconds
+  Import took 0.083896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.411424 seconds.
+  path: Assets/Scenes/ResultScene.unity
+  artifactKey: Guid(8a682ae422f7f4da382206216eb46af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ResultScene.unity using Guid(8a682ae422f7f4da382206216eb46af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4aef62f1e6ee0ea1a46bbe0bcbb27ed0') in 0.005481 seconds
+  Import took 0.024173 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.014590 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.332 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2304 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 195.2 MB.
+System memory in use after: 195.3 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2877.
+Total: 1.681584 ms (FindLiveObjects: 0.178375 ms CreateObjectMapping: 0.059041 ms MarkObjects: 1.338042 ms  DeleteObjects: 0.105209 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004529 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.492 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2304 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 195.5 MB.
+System memory in use after: 195.5 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2882.
+Total: 1.841125 ms (FindLiveObjects: 0.220375 ms CreateObjectMapping: 0.049959 ms MarkObjects: 1.428875 ms  DeleteObjects: 0.141000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003780 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.855 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2304 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 195.7 MB.
+System memory in use after: 195.8 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2887.
+Total: 2.401833 ms (FindLiveObjects: 0.293917 ms CreateObjectMapping: 0.069041 ms MarkObjects: 1.897167 ms  DeleteObjects: 0.140542 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.34 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 150.9 MB.
+System memory in use after: 151.0 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2887.
+Total: 9.552667 ms (FindLiveObjects: 0.406792 ms CreateObjectMapping: 0.046291 ms MarkObjects: 8.960417 ms  DeleteObjects: 0.138625 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 423.685221 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Resources/Ball.prefab
+  artifactKey: Guid(cf255ad7ad5234eefb000681be316be3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Resources/Ball.prefab using Guid(cf255ad7ad5234eefb000681be316be3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07f28a1861bd3f1e3e7121cbe5a7ac3d') in 1.115588 seconds
+  Import took 1.140795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.130195 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Resources/Player1.prefab
+  artifactKey: Guid(7163129c3155e46a08a5fe370c1c91e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Resources/Player1.prefab using Guid(7163129c3155e46a08a5fe370c1c91e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '809da3283ede8d609d5d1a7f6bfdd1e1') in 0.182189 seconds
+  Import took 0.196797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.510416 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Resources/Player1.prefab
+  artifactKey: Guid(7163129c3155e46a08a5fe370c1c91e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Resources/Player1.prefab using Guid(7163129c3155e46a08a5fe370c1c91e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78e0829caa6adeb2009847bff9dcc6cd') in 0.038730 seconds
+  Import took 0.060538 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.91 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 160.4 MB.
+System memory in use after: 160.5 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2896.
+Total: 19.281834 ms (FindLiveObjects: 0.563000 ms CreateObjectMapping: 0.058791 ms MarkObjects: 17.521125 ms  DeleteObjects: 1.138125 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 160.5 MB.
+System memory in use after: 160.5 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2896.
+Total: 14.187125 ms (FindLiveObjects: 0.531584 ms CreateObjectMapping: 0.045458 ms MarkObjects: 13.320791 ms  DeleteObjects: 0.288375 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006021 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 5.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.521 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.74 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2304 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 203.8 MB.
+System memory in use after: 203.9 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2901.
+Total: 7.078667 ms (FindLiveObjects: 0.529375 ms CreateObjectMapping: 0.106959 ms MarkObjects: 5.978750 ms  DeleteObjects: 0.461292 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 159.0 MB.
+System memory in use after: 159.1 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2901.
+Total: 11.771000 ms (FindLiveObjects: 0.488375 ms CreateObjectMapping: 0.046625 ms MarkObjects: 11.068500 ms  DeleteObjects: 0.167083 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005443 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.576 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2304 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 204.3 MB.
+System memory in use after: 204.4 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2906.
+Total: 3.482250 ms (FindLiveObjects: 0.381250 ms CreateObjectMapping: 0.046166 ms MarkObjects: 2.800542 ms  DeleteObjects: 0.253375 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003401 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.08 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.276 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2304 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 204.6 MB.
+System memory in use after: 204.7 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2911.
+Total: 4.625208 ms (FindLiveObjects: 0.255250 ms CreateObjectMapping: 0.098958 ms MarkObjects: 3.933708 ms  DeleteObjects: 0.336208 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.94 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 159.8 MB.
+System memory in use after: 159.8 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2911.
+Total: 12.071250 ms (FindLiveObjects: 0.575042 ms CreateObjectMapping: 0.049750 ms MarkObjects: 11.298666 ms  DeleteObjects: 0.147041 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 159.9 MB.
+System memory in use after: 160.0 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2911.
+Total: 7.061833 ms (FindLiveObjects: 0.524542 ms CreateObjectMapping: 0.046625 ms MarkObjects: 6.342375 ms  DeleteObjects: 0.147459 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006065 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.884 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2304 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 204.9 MB.
+System memory in use after: 205.0 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2916.
+Total: 2.163875 ms (FindLiveObjects: 0.285416 ms CreateObjectMapping: 0.077292 ms MarkObjects: 1.624166 ms  DeleteObjects: 0.176042 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 787.288695 seconds.
+  path: Assets/Scenes/Level 1.unity
+  artifactKey: Guid(04174fcdf8ad9466dac6c451e0b51fd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 1.unity using Guid(04174fcdf8ad9466dac6c451e0b51fd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14c1c74414b7be42d70093e26c56dbfd') in 0.052489 seconds
+  Import took 0.071313 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005798 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.095 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2304 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 205.1 MB.
+System memory in use after: 205.2 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2921.
+Total: 2.482208 ms (FindLiveObjects: 0.240166 ms CreateObjectMapping: 0.100125 ms MarkObjects: 2.016458 ms  DeleteObjects: 0.124459 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.77 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 160.3 MB.
+System memory in use after: 160.4 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2921.
+Total: 7.031083 ms (FindLiveObjects: 0.569375 ms CreateObjectMapping: 0.045541 ms MarkObjects: 6.269625 ms  DeleteObjects: 0.145667 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005868 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.906 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2304 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 205.3 MB.
+System memory in use after: 205.4 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2926.
+Total: 2.323208 ms (FindLiveObjects: 0.197959 ms CreateObjectMapping: 0.051459 ms MarkObjects: 1.348084 ms  DeleteObjects: 0.724708 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.99 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 160.5 MB.
+System memory in use after: 160.6 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2926.
+Total: 14.170125 ms (FindLiveObjects: 0.561375 ms CreateObjectMapping: 0.050916 ms MarkObjects: 13.399209 ms  DeleteObjects: 0.157875 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005968 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.856 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2304 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 205.6 MB.
+System memory in use after: 205.7 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2931.
+Total: 2.359083 ms (FindLiveObjects: 0.177292 ms CreateObjectMapping: 0.047666 ms MarkObjects: 2.017792 ms  DeleteObjects: 0.115500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003229 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.995 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2308 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 205.7 MB.
+System memory in use after: 205.8 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2936.
+Total: 4.080583 ms (FindLiveObjects: 0.250083 ms CreateObjectMapping: 0.093875 ms MarkObjects: 3.422875 ms  DeleteObjects: 0.312917 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 161.3 MB.
+System memory in use after: 161.4 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2936.
+Total: 1.768875 ms (FindLiveObjects: 0.212583 ms CreateObjectMapping: 0.048959 ms MarkObjects: 1.401625 ms  DeleteObjects: 0.105167 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 6.13 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 161.4 MB.
+System memory in use after: 161.5 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2936.
+Total: 11.500875 ms (FindLiveObjects: 0.497917 ms CreateObjectMapping: 0.045500 ms MarkObjects: 10.816500 ms  DeleteObjects: 0.140375 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005994 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 3.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.140 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2308 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 206.5 MB.
+System memory in use after: 206.6 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2941.
+Total: 1.970750 ms (FindLiveObjects: 0.242500 ms CreateObjectMapping: 0.095625 ms MarkObjects: 1.503750 ms  DeleteObjects: 0.127833 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006309 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.612 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2308 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 206.7 MB.
+System memory in use after: 206.8 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2946.
+Total: 1.671959 ms (FindLiveObjects: 0.174833 ms CreateObjectMapping: 0.048000 ms MarkObjects: 1.329917 ms  DeleteObjects: 0.118250 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006293 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.516 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2308 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 206.8 MB.
+System memory in use after: 206.9 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2951.
+Total: 2.122042 ms (FindLiveObjects: 0.166750 ms CreateObjectMapping: 0.052292 ms MarkObjects: 1.788666 ms  DeleteObjects: 0.113417 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005807 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.169 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2308 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 207.2 MB.
+System memory in use after: 207.2 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2956.
+Total: 3.032083 ms (FindLiveObjects: 0.304667 ms CreateObjectMapping: 0.086709 ms MarkObjects: 2.499209 ms  DeleteObjects: 0.140625 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007938 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.891 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2308 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 207.3 MB.
+System memory in use after: 207.4 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2961.
+Total: 2.097375 ms (FindLiveObjects: 0.215667 ms CreateObjectMapping: 0.092083 ms MarkObjects: 1.663542 ms  DeleteObjects: 0.125167 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004919 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.582 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.39 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2308 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 207.5 MB.
+System memory in use after: 207.6 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2966.
+Total: 1.690917 ms (FindLiveObjects: 0.170708 ms CreateObjectMapping: 0.060625 ms MarkObjects: 1.345917 ms  DeleteObjects: 0.112750 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004601 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.667 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2308 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 207.7 MB.
+System memory in use after: 207.8 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2971.
+Total: 2.273625 ms (FindLiveObjects: 0.204166 ms CreateObjectMapping: 0.087375 ms MarkObjects: 1.871583 ms  DeleteObjects: 0.109584 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006949 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.583 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2308 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 207.8 MB.
+System memory in use after: 207.9 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2976.
+Total: 1.762458 ms (FindLiveObjects: 0.191750 ms CreateObjectMapping: 0.061000 ms MarkObjects: 1.395542 ms  DeleteObjects: 0.113291 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006849 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.663 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2308 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 208.1 MB.
+System memory in use after: 208.2 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2981.
+Total: 2.159208 ms (FindLiveObjects: 0.208667 ms CreateObjectMapping: 0.085583 ms MarkObjects: 1.744834 ms  DeleteObjects: 0.119250 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004699 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.620 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2308 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 208.4 MB.
+System memory in use after: 208.5 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2986.
+Total: 1.859708 ms (FindLiveObjects: 0.202958 ms CreateObjectMapping: 0.087416 ms MarkObjects: 1.452209 ms  DeleteObjects: 0.116084 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005383 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.610 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.39 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2308 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 208.6 MB.
+System memory in use after: 208.7 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2991.
+Total: 1.715417 ms (FindLiveObjects: 0.187750 ms CreateObjectMapping: 0.064625 ms MarkObjects: 1.352125 ms  DeleteObjects: 0.109791 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004536 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.861 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2308 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 208.8 MB.
+System memory in use after: 208.9 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2996.
+Total: 7.866917 ms (FindLiveObjects: 0.416583 ms CreateObjectMapping: 0.089042 ms MarkObjects: 7.202708 ms  DeleteObjects: 0.157458 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004338 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.458 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2308 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 209.0 MB.
+System memory in use after: 209.1 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 3001.
+Total: 1.814750 ms (FindLiveObjects: 0.200375 ms CreateObjectMapping: 0.052916 ms MarkObjects: 1.440667 ms  DeleteObjects: 0.119916 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006804 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.506 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2308 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 209.3 MB.
+System memory in use after: 209.4 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 3006.
+Total: 1.766166 ms (FindLiveObjects: 0.206417 ms CreateObjectMapping: 0.062041 ms MarkObjects: 1.383709 ms  DeleteObjects: 0.113333 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006626 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.396 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.38 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2308 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 209.5 MB.
+System memory in use after: 209.6 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 3011.
+Total: 2.212333 ms (FindLiveObjects: 0.187250 ms CreateObjectMapping: 0.060250 ms MarkObjects: 1.355000 ms  DeleteObjects: 0.609083 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005782 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/simonkm/Documents/Unity Projects/Pong Online/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.364 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.36 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2308 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 209.7 MB.
+System memory in use after: 209.8 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 3016.
+Total: 1.749833 ms (FindLiveObjects: 0.187000 ms CreateObjectMapping: 0.066875 ms MarkObjects: 1.373209 ms  DeleteObjects: 0.121833 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000

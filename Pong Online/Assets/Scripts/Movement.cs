@@ -24,7 +24,7 @@ public class Movement : MonoBehaviour
         
     }
 
-    void Move()
+    public void Move()
     {
         Vector3 verticalMove = new Vector3(0f, Input.GetAxis("Vertical"), 0f);
         transform.position += verticalMove * Time.deltaTime * speed;

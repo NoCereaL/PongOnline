@@ -279,8 +279,9 @@ GameObject:
   - component: {fileID: -1226883871608218432}
   - component: {fileID: 6994746140581983091}
   - component: {fileID: 7431506675078012763}
+  - component: {fileID: 6216346249326492220}
   m_Layer: 0
-  m_Name: Player1
+  m_Name: OfflinePlayer1
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -367,6 +368,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
+  mouseCoords: {x: 0, y: 0, z: 0}
+  position: {x: 0, y: 0, z: 0}
+  getTouches: 0
 --- !u!50 &-1226883871608218432
 Rigidbody2D:
   serializedVersion: 4
@@ -387,7 +391,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 4
+  m_Constraints: 5
 --- !u!61 &6994746140581983091
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -427,6 +431,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pauseMenu: {fileID: 7517146384744900085}
+--- !u!114 &6216346249326492220
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3770936712287530515}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d19b3671c7c624e26a740239d504ecbb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &5261599055872328751
 GameObject:
   m_ObjectHideFlags: 0
@@ -676,13 +692,14 @@ GameObject:
   - component: {fileID: 6692056843678767901}
   - component: {fileID: 8772474811728108142}
   - component: {fileID: 8167814577035553808}
+  - component: {fileID: 4787537067821377745}
   m_Layer: 0
   m_Name: PauseMenu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &3018286672334858775
 RectTransform:
   m_ObjectHideFlags: 0
@@ -768,6 +785,18 @@ MonoBehaviour:
   m_BlockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
+--- !u!225 &4787537067821377745
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7517146384744900085}
+  m_Enabled: 1
+  m_Alpha: 0.8
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
 --- !u!1 &8063148328185387098
 GameObject:
   m_ObjectHideFlags: 0

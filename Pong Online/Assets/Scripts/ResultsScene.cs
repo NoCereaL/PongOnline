@@ -8,6 +8,11 @@ public class ResultsScene : MonoBehaviour
 {
     public Text player1Score;
     public Text player2Score;
+
+    public Text winner;
+
+    public Text Player1Name;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -18,6 +23,8 @@ public class ResultsScene : MonoBehaviour
     void Update()
     {
         Scores();
+        Winner();
+        PlayerOneName();
     }
 
     public void Menu()
@@ -31,5 +38,31 @@ public class ResultsScene : MonoBehaviour
     {
         player1Score.text = BallMovement.Player2Score.ToString();
         player2Score.text = BallMovement.Player1Score.ToString();
+    }
+
+    void Winner()
+    {
+        if(BallMovement.Player2Score > BallMovement.Player1Score)
+        {
+            if(MenuScript.ChosenName == null)
+            {
+                winner.text = "Player 1 Wins!!!";
+            }
+            winner.text = MenuScript.ChosenName + " Wins!!!";
+        }
+        else if (BallMovement.Player2Score < BallMovement.Player1Score)
+        {
+            winner.text = "Player 2 Wins!!!";
+        }
+
+    }
+
+    void PlayerOneName()
+    {
+        Player1Name.text = MenuScript.ChosenName;
+        if (MenuScript.ChosenName == null)
+        {
+            Player1Name.text = "Player 1";
+        }
     }
 }

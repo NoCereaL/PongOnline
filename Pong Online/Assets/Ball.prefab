@@ -138,4 +138,4 @@ MonoBehaviour:
   ySpeed: 5
   rb: {fileID: 8750524694766563450}
   collider2D: {fileID: 8750524694766563449}
-  score: {fileID: 0}
+  hitCount: 0
